@@ -38,8 +38,8 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB_ANDA&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB_ANDA&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rafiramadhan-if&show_icons=true&theme=transparent&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafiramadhan-if&layout=compact&theme=transparent&hide_border=true" alt="Top Languages" />
 </p>
 
 <p align="center">
@@ -48,5 +48,5 @@
 
 ### Contribution Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME_GITHUB_ANDA&theme=transparent&hide_border=true&bg_color=ffffff" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rafiramadhan-if&theme=transparent&hide_border=true&bg_color=ffffff" alt="Activity Graph" />
 </p>
