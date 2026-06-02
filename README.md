@@ -16,7 +16,7 @@
 
 - 💬 Ask me about **Go, RStudio, Discrete Mathematics, and Linear Algebra**
 
-- 📫 How to reach me **[Email Anda di sini]**
+- 📫 How to reach me **rafirama1020@gmail.com**
 
 - ⚡ Fun fact: **I love experimenting with AI image generation and editing!**
 
