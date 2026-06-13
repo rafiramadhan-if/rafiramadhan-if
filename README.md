@@ -2,7 +2,7 @@
 <h3 align="center">An Informatics Engineering Student from Indonesia</h3>
 
 <p align="center">
-  <!-- Anda bisa mengganti link gambar di bawah ini dengan avatar atau GIF pilihan Anda -->
+  <! Anda bisa mengganti link gambar di bawah ini dengan avatar atau GIF pilihan Anda -->
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200" alt="Animated avatar"/>
 </p>
 
